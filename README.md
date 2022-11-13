@@ -15,6 +15,7 @@
 * [LIMITI](https://github.com/Cmod777/CMrules#limiti)
 * [EXTRA](https://github.com/Cmod777/CMrules#extra)
 * [RIEPILOGO DELLE VINCITE](https://github.com/Cmod777/CMrules#riepilogo-delle-vincite)
+* [note](https://github.com/Cmod777/CMrules#note)
 
 ***
 ### PERIODI DI GIOCO
@@ -108,3 +109,10 @@ P= -20% della quota spettante
  ***
 ### LISTA CEX GIOCATI:
 ### LISTA COIN GIOCATE:
+
+***
+### NOTE
+* Si prega di rispettare il metodo indicato per il pagamento, esso tiene conto delle info aggiuntive contenute nella invoice che serviranno a indicare il corretto vincitore
+* Non sono accettati come validi saldi di invoice effettuati in altra maniera oltre a quella indicata
+* Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali non è a carico di tutti)
+* Ulteriori modifiche saranno comunicate in questa pagina e/o sui gruppi chat
