@@ -1,18 +1,18 @@
 # CMrules
 
 ## Table of Contents
-1. PERIODI DI GIOCO
-2. VINCITE
-3. MONTEPREMI
-4. PENALITÁ
-5. RITIRARE UNA SCOMMESSA
-6. ESEMPIO DI GIOCO
-7. Sezione CEX
-8. Sezione COIN
-9. PIAZZARE BET
-10. LIMITI
-11. EXTRA
-12. RIEPILOGO DELLE VINCITE
+* [PERIODI DI GIOCO](https://github.com/Cmod777/CMrules#periodi-di-gioco)
+* [VINCITE](https://github.com/Cmod777/CMrules#vincite)
+* [MONTEPREMI](https://github.com/Cmod777/CMrules#montepremi)
+* [PENALITÁ](https://github.com/Cmod777/CMrules#penalità)
+* [RITIRARE UNA SCOMMESSA](https://github.com/Cmod777/CMrules#rititare-una-scommessa)
+* [ESEMPIO DI GIOCO](https://github.com/Cmod777/CMrules#esempi-di-gioco)
+* [Sezione CEX](https://github.com/Cmod777/CMrules#sezione-cex)
+* [Sezione COIN](https://github.com/Cmod777/CMrules#sezione-coin)
+* [PIAZZARE BET](https://github.com/Cmod777/CMrules#piazzare-bet)
+* [LIMITI](https://github.com/Cmod777/CMrules#limiti)
+* [EXTRA](https://github.com/Cmod777/CMrules#extra)
+* [RIEPILOGO DELLE VINCITE](https://github.com/Cmod777/CMrules#riepilogo-delle-vincite)
 
 ***
 ### PERIODI DI GIOCO
