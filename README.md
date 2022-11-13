@@ -62,8 +62,8 @@ Caso C) nessuna vincita esatta né parziale. Se il montepremi é inferiore ai 1.
 2) 1.000.000 usd - VINCITA PARZIALE
 I volumi di scambio vengono calcolati sulla base delle informazioni riportate da https://coinmarketcap.com/rankings/exchanges/
 e viene tollerato uno scarto + o - del 20% quindi:
--) dai 200.000 usd ai 300.000 usd
--) dai 800.000 usd ai 1.200.000 usd
+* dai 200.000 usd ai 300.000 usd
+* dai 800.000 usd ai 1.200.000 usd
 Ogni giorno (nel periodo di calcolo) vengono presi i valori di riferimento (scartando le migliaia) e a fine del periodo viene fatta una media matematica. 
 ***
 ### Sezione COIN:
