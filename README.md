@@ -39,7 +39,7 @@ Il premio CEX&COIN viene assegnato cosi:
 Oppure se non c'é nessun vincitore né per le scommesse CEX né per quelle COIN per il tipo (1) si prosegue cosi:
 70% del totale del montepremi CEX&COIN suddiviso in parti uguali tra tutti i vincitori con obbiettivo (2)
 ***
-### PENALITÁ: 
+### Penalità: 
 se la vincita é avvenuta conseguentemente ad aver ripiazzato la scommessa almeno una volta per giocatore [se il giocatore aveva piazzato #bet per X, ritira la scommessa e piazza #bet per Y e poi Y vince (sia tipo 1 che tipo 2)] allora a qualsiasi premio debba riscuotere verrá detratto il 20% della sua parte di vincita. 
 ***
 ### RITIRARE UNA SCOMMESSA: 
