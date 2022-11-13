@@ -8,7 +8,9 @@
 * [RITIRARE UNA SCOMMESSA](https://github.com/Cmod777/CMrules#rititare-una-scommessa)
 * [ESEMPIO DI GIOCO](https://github.com/Cmod777/CMrules#esempi-di-gioco)
 * [Sezione CEX](https://github.com/Cmod777/CMrules#sezione-cex)
+---- [LISTA CEX GIOCATI](https://github.com/Cmod777/CMrules#lista-cex-giocati) 
 * [Sezione COIN](https://github.com/Cmod777/CMrules#sezione-coin)
+---- [LISTA COIN GIOCATE](https://github.com/Cmod777/CMrules#lista-coin-giocate)
 * [PIAZZARE BET](https://github.com/Cmod777/CMrules#piazzare-bet)
 * [LIMITI](https://github.com/Cmod777/CMrules#limiti)
 * [EXTRA](https://github.com/Cmod777/CMrules#extra)
@@ -103,4 +105,6 @@ P= 70%M / V (eventuali V -pen)
 -effettui una vincita ESATTA o PARZIALE a seguito di un scommessa ripiazzata (piu tentativi) re-bet 
 P= -20% della quota spettante
 
- 
+ ***
+### LISTA CEX GIOCATI:
+### LISTA COIN GIOCATE:
