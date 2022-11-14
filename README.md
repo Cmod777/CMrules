@@ -108,6 +108,61 @@ Puoi vincere il montepremi parziale se:
 
  ***
 ### LISTA CEX GIOCATI:
+| CEX | BET (bet uguali fino a indicazione differente)| turno 1 | 
+|:--------------|:-------------:|:--------------:|
+CEX|X sats|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|X sats|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|X sats|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|X sats|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|X sats|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+CEX|-|
+
+(se il cex contiene l'indicazione "null" in tabella è escluso dalle prossime votazioni nel turno - le bet precedenti il "null" sono valide, non ne vengono accettate altre fino alla fine del turno di gioco)
+ ***
 ### LISTA COIN GIOCATE:
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
