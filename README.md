@@ -109,6 +109,95 @@ P= -20% della quota spettante
  ***
 ### LISTA CEX GIOCATI:
 ### LISTA COIN GIOCATE:
+| COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+BTC / bitcoin |0.00€|0.00€	- 0.00€|
+ETH / ethereum|0.00€|0.00€ - 0.00€|
+USDT / tether|0.00€|0.00€ - 0.00€|
+BNB / bnb|0.00€|0.00€ - 0.00€|
+USDC / usdc coin|0.00€|0.00€ - 0.00€|
+BUSD / binance usd|0.00€|0.00€ - 0.00€|
+XRP / xrp|0.00€|0.00€ - 0.00€|
+DOGE / dogecoin|0.00€|0.00€ - 0.00€|
+ADA / cardano|0.00€|0.00€ - 0.00€|
+MATIC / polygon|0.00€|0.00€ - 0.00€|
+
+| COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+DOT / polkadot|0.00€|0.00€ - 0.00€|	
+DAI / dai|0.00€|0.00€ - 0.00€|
+SOL / solana|0.00€|0.00€ - 0.00€|
+SHIB / shiba inu|0.00€|0.00€ - 0.00€|	
+TRX / tron|0.00€|0.00€ - 0.00€|
+UNI / uniswap|0.00€|0.00€ - 0.00€|
+LTC / litecoin|0.00€|0.00€ - 0.00€|
+AVAX / avalanche|0.00€|0.00€ - 0.00€|
+WBTC / wrapped bitcoin|0.00€|0.00€ - 0.00€|
+LEO / unus sed leo|0.00€|0.00€ - 0.00€|
+
+| COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+LINK / chainlin|0.00€|0.00€ - 0.00€|
+ATOM / cosmos|0.00€|0.00€ - 0.00€|
+ETC / eth classic|0.00€|0.00€ - 0.00€|
+XRM / monero|0.00€|0.00€ - 0.00€|
+XLM / stellar|0.00€|0.00€ - 0.00€|
+BCH / bitcoin cash|0.00€|0.00€ - 0.00€|
+TON / toncoin|0.00€|0.00€ - 0.00€|
+ALGO / algorand|0.00€|0.00€ - 0.00€|
+CRO / cronos|0.00€|0.00€ - 0.00€|
+NEAR / near protocol|0.00€|0.00€ - 0.00€|
+
+| COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+FIL / filecoin|0.00€|0.00€ - 0.00€|
+VET / vechain|0.00€|0.00€ - 0.00€|
+QNT / quant|0.00€|0.00€ - 0.00€|
+FLOW / flow|0.00€|0.00€ - 0.00€|
+CHZ / chiliz|0.00€|0.00€ - 0.00€|
+LUNC / terra classic|0.00€|0.00€ - 0.00€|
+ICP / internet computer|0.00€|0.00€ - 0.00€|
+OKB / okb|0.00€|0.00€ - 0.00€|
+EGLD / elrond|0.00€|0.00€ - 0.00€|
+HBAR / hedera|0.00€|0.00€ - 0.00€|
+
+| COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+XCN / chain|0.00€|0.00€ - 0.00€|
+EOS / eos|0.00€|0.00€ - 0.00€|
+TWT / trust wallet token|0.00€|0.00€ - 0.00€|
+USDP / pax dollar|0.00€|0.00€ - 0.00€|
+XTZ / tezos|0.00€|0.00€ - 0.00€|
+APE / apecoin|0.00€|0.00€ - 0.00€|
+SAND / sandbox|0.00€|0.00€ - 0.00€|
+THETA / theta network|0.00€|0.00€ - 0.00€|
+TUSD / trueusd|0.00€|0.00€ - 0.00€|
+AAVE / aave|0.00€|0.00€ - 0.00€|
+
+| COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+MANA / decentraland|0.00€|0.00€ - 0.00€|
+GUSD / gemini dollar|0.00€|0.00€ - 0.00€|
+KCS / kucoin token|0.00€|0.00€ - 0.00€|
+BSV / bitcoin SV|0.00€|0.00€ - 0.00€|
+HT / huobi token|0.00€|0.00€ - 0.00€|
+USDD / usdd|0.00€|0.00€ - 0.00€|
+AXS / axie infinity|0.00€|0.00€ - 0.00€|
+MKR / maker|0.00€|0.00€ - 0.00€|
+BIT / bitdao|0.00€|0.00€ - 0.00€|
+ZEC / zcash|0.00€|0.00€ - 0.00€|
+
+| COIN EXTRA aggiunte con votazione | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET PER LA VITTORIA | 
+|:--------------|:-------------:|:--------------:|
+| bet x sats | turno 1 | MIN - MAX |
+COIN / coin|0.00€|0.00€ - 0.00€|
+COIN / coin|0.00€|0.00€ - 0.00€|
 
 ***
 ### NOTE
