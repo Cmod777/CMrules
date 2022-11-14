@@ -24,6 +24,7 @@ Periodo di stop: non si possono prendere ordini per gli ultimi 15 giorni del per
 Periodo di controllo: i controlli necessari vengono fatti nei 7 giorni dopo il periodo di stop. Per la sezione COIN i controlli dei prezzi si fanno l'ultimo giorno utile (il settimo).
 Assegnazione dei premi: i premi si assegnano gli ultimi giorni dell'ultimo mese del periodo di gioco
 Ritirare una scommessa: si puó ritirare una scommessa fino al massimo due mesi prima della fine del periodo di gioco. (Vedi relativa penalitá)
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### VINCITE
 Vincita esatta: raggiugimento dell'obbiettivo (1), il primo utente che piazza #bet viene considerato valido per la vincita del 100% di quota del montepremi relativo. Se c'é una vincita per l'obbiettivo (1) allora il primo in assoluto che ha i requisiti validi vince il 100% di tutto il montepremi della sezione. Non ci possono essere due utenti entrambi vincitori per il tipo (1)
@@ -32,6 +33,7 @@ Per entrambi i premi si applicano le penalitá, in caso di penalitá verrá detr
 Nessuna vincita: sondaggio per decidere assegnazione del montepremi. 
 Vincita anticipata: in caso di vincita di tipo (1) prima della scadenza del gioco sarà assegnato il premio del X% del montepremi relativo al vincitore valido e la COIN o il CEX perdente saranno delistati dal gioco. Si potrà proseguire con le altre COIN o CEX e relative #bet fino a scadenza naturale del periodo di gioco. Il montepremi relativo sará l'equivalente della rimanenza del precedente piú tutte le scommesse successive.
 Per vincite anticipate entro il primo mese di inzio sará assegnato il 50% del montepremi accumulato, per quelle fino al secondo mese il 75%, oltre il secondo mese e prima della scadenza l'85%.
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### MONTEPREMI
 Il montepremi é diviso in due sezioni: CEX&COIN e GURU e le due vincite sono indipendenti tra loro. Lo stesso giocatore puó vincerle entrambe.
@@ -39,12 +41,15 @@ Il premio CEX&COIN viene assegnato cosi:
 100% al primo che ottiene una vincita valida con obbiettivo (1) 
 Oppure se non c'é nessun vincitore né per le scommesse CEX né per quelle COIN per il tipo (1) si prosegue cosi:
 70% del totale del montepremi CEX&COIN suddiviso in parti uguali tra tutti i vincitori con obbiettivo (2)
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### Penalità: 
 se la vincita é avvenuta conseguentemente ad aver ripiazzato la scommessa almeno una volta per giocatore [se il giocatore aveva piazzato #bet per X, ritira la scommessa e piazza #bet per Y e poi Y vince (sia tipo 1 che tipo 2)] allora a qualsiasi premio debba riscuotere verrá detratto il 20% della sua parte di vincita. 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### RITIRARE UNA SCOMMESSA: 
 Chiunque voglia ritirare una #bet piazzata potrá farlo ottenendo un rimborso del 70% di quanto pagato. É possibile ritirare una scommessa fino a 2 mesi prima della fine del periodo di gioco. (es: se il periodo di gioco é di 3 mesi e inizia a gennaio allora il limite massimo per ritirare una scommessa é l'ultimo giorno utile di gennaio). Il rimborso viene fatto il prima possibile, idealmente immediatamente alla richiesta. 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### ESEMPIO DI GIOCO:
 Periodo 4 mesi gennaio-aprile
@@ -55,6 +60,7 @@ Gli ultimi 3 giorni di aprile si assegnano i premi.
 Caso A) due persone candidate alla vincita esatta, il primo che ha giocato vince il 100% del montepremi.
 Caso B) nessuna vincita esatta, cinque candidati per vincita parziale. Si prende il 70% del montepremi e si divide per cinque. Il vincitore due ha vinto a seguito di una rigiocata. I vincitori 1 3 4 5 prendono a testa un quinto del 70% del montepremi, il vincitore 2 prende un quinto meno la penalitá del 20% della sua quota. 
 Caso C) nessuna vincita esatta né parziale. Se il montepremi é inferiore ai 1.000.000 sats allora si assegna integralmente in base al risultato del sondaggio, se superiore allora la quota extra dei 1M sats si tiene in aggiunta al prossimo giro di gioco. 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### Sezione CEX:
 - il cex o la società maggiore del gruppo (es: binance vale sia per binance.us, binance.it ecc) dichiara ufficialmente bancarotta, insolvenza, fallimento. L'acquisizione o assorbimento in altra azienda non conta come sopravvivenza del cex, viene considerato ugualmente fallito.
@@ -66,21 +72,26 @@ e viene tollerato uno scarto + o - del 20% quindi:
 * dai 200.000 usd ai 300.000 usd
 * dai 800.000 usd ai 1.200.000 usd
 Ogni giorno (nel periodo di calcolo) vengono presi i valori di riferimento (scartando le migliaia) e a fine del periodo viene fatta una media matematica. 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules) - [LISTA CEX GIOCATI](https://github.com/Cmod777/CMrules#lista-cex-giocati)
 ***
 ### Sezione COIN:
 - La coin viene considerata fallita quando perde almeno il X% del suo valore dal momento di inizio del periodo di gioco. All'inizio del gioco viene riportata la coin listata e il suo prezzo di quotazione preso da https://coinmarketcap.com/ , dal periodo indicato fino al periodo di fine verrá verificato il prezzo di quotazione finale.
 1) perdita di almeno il 90% - VINCITA ESATTA
 2) perdita compresa tra il meno 75% e il 90% - VINCITA PARZIALE 
 Nel periodo di controllo si procede cosi: l'ultimo giorno utile (circa 3 giorni prima della scadenza del gioco) si controllano i prezzi finali delle coin e il controvalore perso in % rispetto a quanto riportato a inizio gioco.
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules) - [LISTA COIN GIOCATE](https://github.com/Cmod777/CMrules#lista-coin-giocate)
 ***
 ### PIAZZARE BET:
 La modalitá di candidatura a una scommessa va fatta nel modo indicato, il pagamento della invoice va fatto come richiesto. La scommessa risulta valida quando viene pagata e non quando viene piazzata. Con la stessa logica si ritiene valido per la vincita esatta solo il primo che ha saldato se piu di uno possono essere parimerito per la vincita esatta. 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### LIMITI: 
 Sono concesse massimo sette #bet a utente, comprese quelle ritirate e poi ripiazzate. Sono concesse al massimo due rigiocate a utente. (Max 7 di cui max 2 rigiocate) 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### EXTRA:
 Possono essere listate CEX&COIN non comprese nell'elenco iniziale a patto che, con sondaggio anonimo, si raggiunga almeno il 40% di voti tra i partecipanti. Devono votare almeno il 40% per considerare il sondaggio valido, in caso di validitá si aggiunge se vince a maggioranza dei votanti al SI.
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 
 ### RIEPILOGO DELLE VINCITE:
@@ -105,6 +116,8 @@ Puoi vincere il montepremi parziale se:
 
 -effettui una vincita ESATTA o PARZIALE a seguito di un scommessa ripiazzata (piu tentativi) re-bet 
 * P= -20% della quota spettante
+
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 
  ***
 ### LISTA CEX GIOCATI:
@@ -162,6 +175,7 @@ CEX|-|
 CEX|-|
 
 (se il cex contiene l'indicazione "null" in tabella è escluso dalle prossime votazioni nel turno - le bet precedenti il "null" sono valide, non ne vengono accettate altre fino alla fine del turno di gioco)
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
  ***
 ### LISTA COIN GIOCATE:
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
@@ -254,9 +268,11 @@ ZEC / zcash|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 COIN / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 COIN / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### NOTE
 * Si prega di rispettare il metodo indicato per il pagamento, esso tiene conto delle info aggiuntive contenute nella invoice che serviranno a indicare il corretto vincitore
 * Non sono accettati come validi saldi di invoice effettuati in altra maniera oltre a quella indicata
 * Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali non è a carico di tutti)
 * Ulteriori modifiche saranno comunicate in questa pagina e/o sui gruppi chat
+[TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
