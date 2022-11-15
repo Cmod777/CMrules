@@ -44,7 +44,10 @@ Oppure se non c'é nessun vincitore né per le scommesse CEX né per quelle COIN
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### Penalità: 
-se la vincita é avvenuta conseguentemente ad aver ripiazzato la scommessa almeno una volta per giocatore [se il giocatore aveva piazzato #bet per X, ritira la scommessa e piazza #bet per Y e poi Y vince (sia tipo 1 che tipo 2)] allora a qualsiasi premio debba riscuotere verrá detratto il 20% della sua parte di vincita. 
+Ci sono vari tipi di penalità:
+* PENALITA' DI GIOCO: "HOT TOPIC" Quando un admin, a sua totale discrezione, ritiene che un giocatore stia piazzando un #bet facile o comodo (argomento di discussione acceso, recenti avvenimenti che portano in risalto il COIN o CEX che si vuole puntare) può lanciare il comando appropriato e applicare una penalità al giocatore. Tale penalità avvierà un sondaggio anonimo della durata di 10 min circa tra i giocatori che decideranno, tra le opzioni possibili, come procedere. Il giocatore potrà decidere se accettare la penalità e proseguire o annullare la puntata per quel turno di gioco.
+Il questionario proposto comprende queste opzioni: A) riduci bet max al giocatore di -1 | B) aumenta la puntata del 50% | C) annulla la puntata al giocatore
+* PENALITA' DI VINCITA: Se la vincita é avvenuta conseguentemente ad aver ripiazzato la scommessa almeno una volta per giocatore [se il giocatore aveva piazzato #bet per X, ritira la scommessa e piazza #bet per Y e poi Y vince (sia tipo 1 che tipo 2)] allora a qualsiasi premio debba riscuotere verrá detratto il 20% della sua parte di vincita. 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### RITIRARE UNA SCOMMESSA: 
@@ -123,56 +126,62 @@ Puoi vincere il montepremi parziale se:
 ### LISTA CEX GIOCATI:
 | CEX | BET (bet uguali fino a indicazione differente)| turno 1 | 
 |:--------------|:-------------:|:--------------:|
-CEX|X sats|
+BINANCE*|10.000 sats|
+COINBASE|-|
+KRAKEN|-|
+KUCOIN|-|
+BITFINEX|-|
+GEMINI|-|
+COINCHECK|-|
+BITSTAMP|-|
+BYBIT|-|
+OKX|-|
+BITHUMB|15.000 sats|
+BITFLYER|-|
+BITGET|-|
+GATE dot IO|-|
+MEXC|-|
+CRYPTO dot COM|-|
+LBANK|-|
+HUOBI GLOBAL|-|
+BKEX|-|
+UPBIT|-|
+BITMART|20.000 sats|
+PHEMEX|-|
+XT dot COM|-|
+KORBIT|-|
+BTCEX|-|
+ZAIF|-|
+PROBIT GLOBAL|-|
+BITMEX|-|
+COINONE|-|
+BIGONE|-|
+BITRUE|25.000 sats|
+POLONIEX|-|
+BINGX|-|
+P2B|-|
+OKCOIN|-|
+COINSBIT|-|
+HOTCOIN GLOBAL|-|
+WHITEBIT|-|
+BITTREX|-|
+CURRENCY dot COM|-|
+BTCTURK|30.000 sats|
+DIGIFINEX|-|
+PIONEX|-|
+COINW|-|
+COINEX|-|
+BITBANK|-|
+DEEPCOIN|-|
+PEXPAY|-|
+BITSO|-|
+AZBIT|-|
+CEX EXTRA|50.000 sats|
+BLOCKFI|-|
 CEX|-|
 CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|X sats|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|X sats|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|X sats|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|X sats|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
-CEX|-|
+
+1* comprende anche Binance.us, Binance.tr (cex inteso come principale, non sono considerati i sottogruppi)
 
 (se il cex contiene l'indicazione "null" in tabella è escluso dalle prossime votazioni nel turno - le bet precedenti il "null" sono valide, non ne vengono accettate altre fino alla fine del turno di gioco)
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
