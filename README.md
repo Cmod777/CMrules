@@ -73,7 +73,7 @@ Caso C) nessuna vincita esatta né parziale. Se il montepremi é inferiore ai 1.
 
 I volumi di scambio vengono calcolati sulla base delle informazioni riportate da https://coinmarketcap.com/rankings/exchanges/ CMC viene utilizzato per determinare i volumi al calcolo per assegnare i premi.
 
-Per la preparazione della tabella di gioco: vengono riportati i primi 50 cex presenti al link https://coinmarketcap.com/rankings/exchanges/ (al momento di preparazione della tabella / i dati riportati nel link possono cambiare nel tempo, la tabella resta uguale per tutto il periodo di gioco) poi incrociamo i dati con quelli indicati nella lista https://www.coingecko.com/it/cambi . Vengono confermati solo i CEX che compaiono in entrambe le liste (considerando Coingecko fino alla massima posizione del 60imo posto / se un cex presente su cmc non è presente nei primi 60 posti della lista coingecko, viene eliminato dal turno di gioco ). La lista viene aggiornata ad ogni turno di gioco e non è modificabile se non aggiungendo CEX extra (vedi sezione) con votazione degli utenti. Se la tabella di gioco presenta degli spazi vuoti vuol dire che i cex riportati da cmc non erano presenti nei primi 60 di coingecko, il posto resta libero fino al prossimo turno di gioco. Tutte le aggiunte di cex fatte dai giocatori andranno inserite nella sezione "extra" della tabella.
+Per la preparazione della tabella di gioco: vengono riportati i primi 50 CEX presenti al link https://coinmarketcap.com/rankings/exchanges/ (al momento di preparazione della tabella / i dati riportati nel link possono cambiare nel tempo, la tabella resta uguale per tutto il periodo di gioco) I dati vengono confronttati con quelli indicati nella lista https://www.coingecko.com/it/cambi . Vengono confermati solo i CEX che compaiono in entrambe le liste (considerando Coingecko fino alla massima posizione del 60imo posto / se un cex presente su cmc non è presente nei primi 60 posti della lista coingecko, viene eliminato dal turno di gioco ). La lista viene aggiornata ad ogni turno di gioco e non è modificabile se non aggiungendo CEX extra (vedi sezione) con votazione degli utenti. Se la tabella di gioco presenta degli spazi vuoti vuol dire che i cex riportati da cmc non erano presenti nei primi 60 di coingecko, i posti rimanenti restano vacanti fino al prossimo turno di gioco. Tutte le aggiunte di cex fatte dai giocatori andranno inserite nella sezione "extra" della tabella.
 e viene tollerato uno scarto + o - del 20% quindi:
 * dai 200.000 usd ai 300.000 usd
 * dai 800.000 usd ai 1.200.000 usd
@@ -148,41 +148,41 @@ CRYPTO dot COM|-|
 LBANK|-|
 HUOBI GLOBAL|-|
 BKEX|-|
--|-|
-BITMART|20.000 sats|
-PHEMEX|-|
+BITMART|-|
+PHEMEX|20.000 sats|
 XT dot COM|-|
--|-|
 BTCEX|-|
--|-|
--|-|
 BITMEX|-|
 COINONE|-|
 BIGONE|-|
--|25.000 sats|
 POLONIEX|-|
 BINGX|-|
 P2B|-|
 OKCOIN|-|
+WHITEBIT|25.000 sats|
 COINSBIT|-|
--|-|
-WHITEBIT|-|
 BITTREX|-|
--|-|
-BTCTURK pro|30.000 sats|
+BTCTURK pro|-|
 DIGIFINEX|-|
--|-|
--|-|
 COINEX|-|
 BITBANK|-|
--|-|
--|-|
 BITSO|-|
 -|-|
---EXTRA--|50.000 sats|
+-|-|
+-|30.000 sats|
+-|-|
+-|-|
+-|-|
+-|-|
+-|-|
+-|-|
+-|-|
+-|-|
+-|-|
+-- EXTRA --|50.000 sats|
 BLOCKFI|-|
-CEX|-|
-CEX|-|
+YOUNG PLATFORM|-|
+-|-|
 
 1* comprende anche Binance.us, Binance.tr (cex inteso come principale, non sono considerati i sottogruppi)
 
