@@ -129,7 +129,7 @@ Puoi vincere il montepremi parziale se:
 ### LISTA CEX GIOCATI:
 | CEX | BET (bet uguali fino a indicazione differente)| turno 1 | 
 |:--------------|:-------------:|:--------------:|
-BINANCE*|10.000 sats|
+BINANCE*|15.000 sats|
 COINBASE|-|
 KRAKEN|-|
 KUCOIN|-|
@@ -139,7 +139,7 @@ COINCHECK|-|
 BITSTAMP|-|
 BYBIT|-|
 OKX|-|
-BITHUMB|15.000 sats|
+BITHUMB|20.000 sats|
 BITFLYER|-|
 BITGET|-|
 GATE dot IO|-|
@@ -149,7 +149,7 @@ LBANK|-|
 HUOBI GLOBAL|-|
 BKEX|-|
 BITMART|-|
-PHEMEX|20.000 sats|
+PHEMEX|25.000 sats|
 XT dot COM|-|
 BTCEX|-|
 BITMEX|-|
@@ -159,7 +159,7 @@ POLONIEX|-|
 BINGX|-|
 P2B|-|
 OKCOIN|-|
-WHITEBIT|25.000 sats|
+WHITEBIT|30.000 sats|
 COINSBIT|-|
 BITTREX|-|
 BTCTURK pro|-|
@@ -169,7 +169,7 @@ BITBANK|-|
 BITSO|-|
 -|-|
 -|-|
--|30.000 sats|
+-|35.000 sats|
 -|-|
 -|-|
 -|-|
@@ -187,12 +187,14 @@ YOUNG PLATFORM|-|
 1* comprende anche Binance.us, Binance.tr (cex inteso come principale, non sono considerati i sottogruppi)
 
 (se il cex contiene l'indicazione "null" in tabella è escluso dalle prossime votazioni nel turno - le bet precedenti il "null" sono valide, non ne vengono accettate altre fino alla fine del turno di gioco)
+
+La tabella comprende 50 posizioni massime (+quelle extra scelte dai giocatori). Da una posizione all'altra viene aggiunto un extra di 5k sats. Alla prima posizione viene assegnato un punteggio di 10k. Nel caso in cui non ci fosse possibilità di inserire nemmeno un CEX nell'ultimo scaglione allora la prima posizione inizierà con 15k, nel caso in cui non ci fosse possibilità di inserire nemmeno un CEX nel penultimo scaglione allora la prima posizione inizierà con 20k ecc... Nel caso in cui si potesse riempire solo il primo scaglione allora esso partirà con una quotazione di 30k.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
  ***
 ### LISTA COIN GIOCATE:
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+| bet 10.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
 BTC / bitcoin |0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 ETH / ethereum|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 USDT / tether|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
@@ -206,7 +208,7 @@ MATIC / polygon|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+| bet 15.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
 DOT / polkadot|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 DAI / dai|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 SOL / solana|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
@@ -220,7 +222,7 @@ LEO / unus sed leo|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+| bet 20.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
 LINK / chainlin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 ATOM / cosmos|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 ETC / eth classic|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
@@ -234,7 +236,7 @@ NEAR / near protocol|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+| bet 25.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
 FIL / filecoin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 VET / vechain|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 QNT / quant|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
@@ -248,7 +250,7 @@ HBAR / hedera|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+| bet 30.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
 XCN / chain|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 EOS / eos|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 TWT / trust wallet token|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
@@ -262,7 +264,7 @@ AAVE / aave|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+| bet 35.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
 MANA / decentraland|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 GUSD / gemini dollar|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 KCS / kucoin token|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
@@ -276,9 +278,11 @@ ZEC / zcash|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
-| bet x sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-COIN / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
-COIN / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
+| bet 50.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
+EXTRA / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
+EXTRA / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
+
+La tabella comprende una lista di 60 posizioni, tutte le aggiunte EXTRA verranno inserite dopo votazione dei giocatori con quotazione 50k sats. Da uno scaglione al successivo c'è un incremento di 5k sats, la tabella parte con la prima posizione quotata 10k.
 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
