@@ -11,6 +11,7 @@
 ---- [LISTA CEX GIOCATI](https://github.com/Cmod777/CMrules#lista-cex-giocati) 
 * [Sezione COIN](https://github.com/Cmod777/CMrules#sezione-coin)
 ---- [LISTA COIN GIOCATE](https://github.com/Cmod777/CMrules#lista-coin-giocate)
+* [SEZIONE CRYPTO-GURU](https://github.com/Cmod777/CMrules#sezione-crypto-guru)
 * [PIAZZARE BET](https://github.com/Cmod777/CMrules#piazzare-bet)
 * [LIMITI](https://github.com/Cmod777/CMrules#limiti)
 * [EXTRA](https://github.com/Cmod777/CMrules#extra)
@@ -86,6 +87,21 @@ Ogni giorno (nel periodo di calcolo) vengono presi i valori di riferimento (scar
 2) perdita compresa tra il meno 75% e il 90% - VINCITA PARZIALE 
 Nel periodo di controllo si procede cosi: l'ultimo giorno utile (circa 3 giorni prima della scadenza del gioco) si controllano i prezzi finali delle coin e il controvalore perso in % rispetto a quanto riportato a inizio gioco.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules) - [LISTA COIN GIOCATE](https://github.com/Cmod777/CMrules#lista-coin-giocate)
+***
+### Sezione CRYPTO-GURU:
+Per la sezione GURU il gioco si svolge in questo modo: 
+* il giocatore deve indovinare quale crypto guru shillerà per primo il prossimo progetto scam entro la fine del periodo di gioco (puó essere una coin, un cex, un dex, uno smart-contract ecc...) Per essere considerato scam si devono verificare le seguenti condizioni: COIN: almeno una perdita del 75% dall'inizio del periodo di gioco, CEX: fallimento o insolvenza dell'exchange, DEX o SMART-CONTRACT: hack o perdita di fondi dovute all'utilizzo del codice, altro non espressamente previsto viene valutato caso per caso.
+* si gioca sulla sponsorizzazione di un progetto scam, non sulla moneta o sull'exchange.
+* il giocatore dovrá fornire prove a dimostrazione della vincita da reclamare. Le prove possono essere screenshot o video reperiti dalle pagine social pubbliche del guru stesso. (Non sono concessi in nessun modo screen provenienti da gruppi privati e/o conversazioni personali intrattenute con la persona su cui si scommette) Le prove devono contenere la data di pubblicazione visibile, sono valide anche prove da post poi cancellati dal guru.
+* a paritá di vincitori potrá reclamare il montepremi relativo (sezione GURU) solo il primo giocatore che porterá prove a suo vantaggio. Fará fede la chat pubblica del gruppo. I messaggi cancellati non potranno essere usati a proprio vantaggio: il giocatore che invia un messaggio di prova (screen o video) e poi lo cancella non potrá usarlo a proprio vantaggio, il messaggio cancellato non sará conteggiato come prova valida.
+* si puó giocare solo sui crypto influencer italiani, o che fanno contenuti in lingua italiana.
+* per giocare nella sezione GURU si usa il comando di base per piazzare una scommessa, seguito dal nome del GURU su cui si gioca.
+La lista dei GURU su cui é possibile giocare é disponibile nel gruppo dedicato, hanno tutti pari quotazione.
+I guru da listare come extra hanno quotazione 50k e possono essere listati a condizione che siano richiesti da almeno 3 giocatori. 
+Il montepremi della sezione GURU é considerato a parte rispetto a quello della sezione CEX&COIN.
+Ogni giocatore ha a disposizione lo stesso numero di puntate della sezione CEX&COIN (7) con massimo due ri-puntate [LIMITI](https://github.com/Cmod777/CMrules#limiti). Si applicano le stesse penalitá in caso di ritiro e successiva scommessa [RITIRARE UNA SCOMMESSA](https://github.com/Cmod777/CMrules#ritirare-una-scommessa), si applicano le stesse condizioni di penalitá per vittoria anticipata [VINCITE](https://github.com/Cmod777/CMrules#vincite). Si applicano le stesse penalitá in caso di vittoria derivante da una scommessa ri-piazzata [penalità](https://github.com/Cmod777/CMrules#penalit%C3%A0).
+Non si applicano penalitá di gioco alla sezione GURU. Vince solo chi, tra i giocatori, comunica per primo e fornisce prove valide per riscattare la sua vincita. In caso di vittoria, il vincitore incassa il premio e le puntate per la sezione GURU sono sospese fino a nuovo turno di gioco: un solo vincitore per turno di gioco.
+Il montepremi non incassato (in caso di vincita anticipata o in caso di nessun vincitore) viene sommato al prossimo turno di gioco della sezione GURU. 
 ***
 ### PIAZZARE BET:
 La modalitá di candidatura a una scommessa va fatta nel modo indicato, il pagamento della invoice va fatto come richiesto. La scommessa risulta valida quando viene pagata e non quando viene piazzata. Con la stessa logica si ritiene valido per la vincita esatta solo il primo che ha saldato se piu di uno possono essere parimerito per la vincita esatta. 
@@ -291,4 +307,5 @@ La tabella comprende una lista di 60 posizioni, tutte le aggiunte EXTRA verranno
 * Non sono accettati come validi saldi di invoice effettuati in altra maniera oltre a quella indicata
 * Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali non è a carico di tutti)
 * Ulteriori modifiche saranno comunicate in questa pagina e/o sui gruppi chat
+* In tutti i casi di vincita, il giocatore può decidere di devolvere in beneficenza la propria quota. Verrà effettuato un pagamento a suo nome verso il servizio scelto.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
