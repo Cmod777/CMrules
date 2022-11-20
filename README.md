@@ -4,7 +4,7 @@
 * [PERIODI DI GIOCO](https://github.com/Cmod777/CMrules#periodi-di-gioco)
 * [VINCITE](https://github.com/Cmod777/CMrules#vincite)
 * [MONTEPREMI](https://github.com/Cmod777/CMrules#montepremi)
-* [penalità](https://github.com/Cmod777/CMrules#penalità)
+* [penalità](https://github.com/Cmod777/CMrules#penalit%C3%A0)
 * [RITIRARE UNA SCOMMESSA](https://github.com/Cmod777/CMrules#ritirare-una-scommessa)
 * [ESEMPIO DI GIOCO](https://github.com/Cmod777/CMrules#esempio-di-gioco)
 * [Sezione CEX](https://github.com/Cmod777/CMrules#sezione-cex)
