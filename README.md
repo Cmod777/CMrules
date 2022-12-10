@@ -52,7 +52,7 @@ Il questionario proposto comprende queste opzioni: A) riduci bet max al giocator
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### RITIRARE UNA SCOMMESSA: 
-Chiunque voglia ritirare una #bet piazzata potrá farlo ottenendo un rimborso del 70% di quanto pagato. É possibile ritirare una scommessa fino a 2 mesi prima della fine del periodo di gioco. (es: se il periodo di gioco é di 3 mesi e inizia a gennaio allora il limite massimo per ritirare una scommessa é l'ultimo giorno utile di gennaio). Il rimborso viene fatto il prima possibile, idealmente immediatamente alla richiesta. 
+Chiunque voglia ritirare una #bet piazzata potrá farlo ottenendo un rimborso del 70% di quanto pagato. É possibile ritirare una scommessa fino a 2 mesi prima della fine del periodo di gioco. (es: se il periodo di gioco é di 3 mesi e inizia a gennaio allora il limite massimo per ritirare una scommessa é l'ultimo giorno utile di gennaio). Il rimborso viene fatto il prima possibile, idealmente immediatamente alla richiesta. In caso di ritiro di una scommessa, e successiva nuova bet, verrà considerata bet ri-piazzata anche se sono presenti altre bet da consumare. Le giocate massime restano uguali ma, se si decide di ripuntare una scommessa con giocate rimanenti ancora valide, la nuova giocata verrà considerata come ri-piazzata con relativa penalità in caso di vincita. (si suggerisce di terminare le puntate residue prima di ripiazzarne una)
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### ESEMPIO DI GIOCO:
@@ -305,7 +305,7 @@ La tabella comprende una lista di 60 posizioni, tutte le aggiunte EXTRA verranno
 ### NOTE
 * Si prega di rispettare il metodo indicato per il pagamento, esso tiene conto delle info aggiuntive contenute nella invoice che serviranno a indicare il corretto vincitore
 * Non sono accettati come validi saldi di invoice effettuati in altra maniera oltre a quella indicata
-* Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali non è a carico di tutti)
+* Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile e/o Muun, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali è a carico di tutti)
 * Ulteriori modifiche saranno comunicate in questa pagina e/o sui gruppi chat
-* In tutti i casi di vincita, il giocatore può decidere di devolvere in beneficenza la propria quota. Verrà effettuato un pagamento a suo nome verso il servizio scelto.
+* In tutti i casi di vincita, il giocatore può decidere di devolvere in beneficenza la propria quota. Verrà effettuato un pagamento a suo nome verso il servizio scelto. Puntate doppie o multiple (il giocatore punta più volte sulla stessa bet) vengono considerate come singole ai fini della vincita, consumano però le bet a disposizione di ognuno.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
