@@ -108,7 +108,7 @@ La modalitá di candidatura a una scommessa va fatta nel modo indicato, il pagam
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### LIMITI: 
-Sono concesse massimo sette #bet a utente, comprese quelle ritirate e poi ripiazzate. Sono concesse al massimo due rigiocate a utente. (Max 7 di cui max 2 rigiocate) 
+Sono concesse massimo sette #bet a utente, comprese quelle ritirate e poi ripiazzate. Sono concesse al massimo due rigiocate a utente. (Max 7 di cui max 2 rigiocate). Attenzione: se un giocatore ha ancora bet residue ma decide di ritirarne una già fatta, la successiva sarà considerata come "rigiocata" con relativa penalità di vincita. Suggeriamo di terminare le bet a disposizione prima di rigiocarne una già fatta.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 ### EXTRA:
