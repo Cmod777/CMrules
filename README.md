@@ -19,43 +19,43 @@
 * [note](https://github.com/Cmod777/CMrules#note)
 
 ***
-### PERIODI DI GIOCO
-Periodo di gioco: il gioco e la possibilitá di effettuare #bet iniziano il giorno 1 del mese e finiscono il 15mo giorno dell'ultimo mese. (es: periodo gennaio-marzo, si gioca da gennaio al 15 di marzo) 
-Periodo di stop: non si possono prendere ordini per gli ultimi 15 giorni del periodo (es: dal 15 a fine marzo)
-Periodo di controllo: i controlli necessari vengono fatti nei 7 giorni dopo il periodo di stop. Per la sezione COIN i controlli dei prezzi si fanno l'ultimo giorno utile (il settimo).
-Assegnazione dei premi: i premi si assegnano gli ultimi giorni dell'ultimo mese del periodo di gioco
-Ritirare una scommessa: si puó ritirare una scommessa fino al massimo due mesi prima della fine del periodo di gioco. (Vedi relativa penalitá)
+### PERIODI DI GIOCO (A)
+(A.1) Periodo di gioco: il gioco e la possibilitá di effettuare #bet iniziano il giorno 1 del mese e finiscono il 15mo giorno dell'ultimo mese. (es: periodo gennaio-marzo, si gioca da gennaio al 15 di marzo) 
+(A.2) Periodo di stop: non si possono prendere ordini per gli ultimi 15 giorni del periodo (es: dal 15 a fine marzo)
+(A.3) Periodo di controllo: i controlli necessari vengono fatti nei 7 giorni dopo il periodo di stop. Per la sezione COIN i controlli dei prezzi si fanno l'ultimo giorno utile (il settimo).
+(A.4) Assegnazione dei premi: i premi si assegnano gli ultimi giorni dell'ultimo mese del periodo di gioco
+(A.5) Ritirare una scommessa: si puó ritirare una scommessa fino al massimo due mesi prima della fine del periodo di gioco. (Vedi relativa penalitá)
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### VINCITE
-Vincita esatta: raggiugimento dell'obbiettivo (1), il primo utente che piazza #bet viene considerato valido per la vincita del 100% di quota del montepremi relativo. Se c'é una vincita per l'obbiettivo (1) allora il primo in assoluto che ha i requisiti validi vince il 100% di tutto il montepremi della sezione. Non ci possono essere due utenti entrambi vincitori per il tipo (1)
-Vincita parziale: raggiungimento dell'obbiettivo (2), tutti gli utenti che piazzano #bet vengono considerati validi per la vincita del 70% del montepremi della sezione. Questo tipo di vincita puó essere assegnata solo se non c'é nemmeno un vincitore per il tipo (1). In caso di vincita di tipo (2) si procede cosi: montepremi della sezione -30% > risultato del 70% del totale diviso in parti uguali per tutti i vincitori di tipo (2) 
-Per entrambi i premi si applicano le penalitá, in caso di penalitá verrá detratta la quota (20%) ai soli vincitori con penalitá, i restanti riscuoteranno la loro quota regolare. 
-Nessuna vincita: sondaggio per decidere assegnazione del montepremi. 
-Vincita anticipata: in caso di vincita di tipo (1) prima della scadenza del gioco sarà assegnato il premio del X% del montepremi relativo al vincitore valido e la COIN o il CEX perdente saranno delistati dal gioco. Si potrà proseguire con le altre COIN o CEX e relative #bet fino a scadenza naturale del periodo di gioco. Il montepremi relativo sará l'equivalente della rimanenza del precedente piú tutte le scommesse successive.
-Per vincite anticipate entro il primo mese di inzio sará assegnato il 50% del montepremi accumulato, per quelle fino al secondo mese il 75%, oltre il secondo mese e prima della scadenza l'85%.
+### VINCITE (B)
+(B.1) Vincita esatta: raggiugimento dell'obbiettivo (1), il primo utente che piazza #bet viene considerato valido per la vincita del 100% di quota del montepremi relativo. (B.1a) Se c'é una vincita per l'obbiettivo (1) allora il primo in assoluto che ha i requisiti validi vince il 100% di tutto il montepremi della sezione. (B.1b) Non ci possono essere due utenti entrambi vincitori per il tipo (1)
+(B.2) Vincita parziale: raggiungimento dell'obbiettivo (2), tutti gli utenti che piazzano #bet vengono considerati validi per la vincita del 70% del montepremi della sezione. (B.2a) Questo tipo di vincita puó essere assegnata solo se non c'é nemmeno un vincitore per il tipo (1). (B.2b) In caso di vincita di tipo (2) si procede cosi: montepremi della sezione -30% > risultato del 70% del totale diviso in parti uguali per tutti i vincitori di tipo (2) 
+(B.3) Per entrambi i premi si applicano le penalitá, in caso di penalitá verrá detratta la quota (20%) ai soli vincitori con penalitá, i restanti riscuoteranno la loro quota regolare. 
+(B.4) Nessuna vincita: sondaggio per decidere assegnazione del montepremi. 
+(B.5) Vincita anticipata: in caso di vincita di tipo (1) prima della scadenza del gioco sarà assegnato il premio del X% del montepremi relativo al vincitore valido e la COIN o il CEX perdente saranno delistati dal gioco. (B.5a) Si potrà proseguire con le altre COIN o CEX e relative #bet fino a scadenza naturale del periodo di gioco. (B.5b) Il montepremi relativo sará l'equivalente della rimanenza del precedente piú tutte le scommesse successive.
+(B.6) Per vincite anticipate entro il primo mese di inzio sará assegnato il 50% del montepremi accumulato, per quelle fino al secondo mese il 75%, oltre il secondo mese e prima della scadenza l'85%.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### MONTEPREMI
-Il montepremi é diviso in due sezioni: CEX&COIN e GURU e le due vincite sono indipendenti tra loro. Lo stesso giocatore puó vincerle entrambe.
-Il premio CEX&COIN viene assegnato cosi: 
+### MONTEPREMI (C)
+(C.1) Il montepremi é diviso in due sezioni: CEX&COIN e GURU e le due vincite sono indipendenti tra loro. Lo stesso giocatore puó vincerle entrambe.
+(C.2) Il premio CEX&COIN viene assegnato cosi: 
 100% al primo che ottiene una vincita valida con obbiettivo (1) 
 Oppure se non c'é nessun vincitore né per le scommesse CEX né per quelle COIN per il tipo (1) si prosegue cosi:
 70% del totale del montepremi CEX&COIN suddiviso in parti uguali tra tutti i vincitori con obbiettivo (2)
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### Penalità: 
+### Penalità: (D)
 Ci sono vari tipi di penalità:
-* PENALITA' DI GIOCO: "HOT TOPIC" Quando un admin, a sua totale discrezione, ritiene che un giocatore stia piazzando un #bet facile o comodo (argomento di discussione acceso, recenti avvenimenti che portano in risalto il COIN o CEX che si vuole puntare) può lanciare il comando appropriato e applicare una penalità al giocatore. Tale penalità avvierà un sondaggio anonimo della durata di 10 min circa tra i giocatori che decideranno, tra le opzioni possibili, come procedere. Il giocatore potrà decidere se accettare la penalità e proseguire o annullare la puntata per quel turno di gioco.
-Il questionario proposto comprende queste opzioni: A) riduci bet max al giocatore di -1 | B) aumenta la puntata del 50% | C) annulla la puntata al giocatore
-* PENALITA' DI VINCITA: Se la vincita é avvenuta conseguentemente ad aver ripiazzato la scommessa almeno una volta per giocatore [se il giocatore aveva piazzato #bet per X, ritira la scommessa e piazza #bet per Y e poi Y vince (sia tipo 1 che tipo 2)] allora a qualsiasi premio debba riscuotere verrá detratto il 20% della sua parte di vincita. 
+* (D.1) PENALITA' DI GIOCO: "HOT TOPIC" Quando un admin, a sua totale discrezione, ritiene che un giocatore stia piazzando un #bet facile o comodo (argomento di discussione acceso, recenti avvenimenti che portano in risalto il COIN o CEX che si vuole puntare) può lanciare il comando appropriato e applicare una penalità al giocatore. (D.1a) Tale penalità avvierà un sondaggio anonimo della durata di 10 min circa tra i giocatori che decideranno, tra le opzioni possibili, come procedere. (D.1b) Il giocatore potrà decidere se accettare la penalità e proseguire o annullare la puntata per quel turno di gioco.
+(D..1c) Il questionario proposto comprende queste opzioni: A) riduci bet max al giocatore di -1 | B) aumenta la puntata del 50% | C) annulla la puntata al giocatore
+* (D.2) PENALITA' DI VINCITA: Se la vincita é avvenuta conseguentemente ad aver ripiazzato la scommessa almeno una volta per giocatore [se il giocatore aveva piazzato #bet per X, ritira la scommessa e piazza #bet per Y e poi Y vince (sia tipo 1 che tipo 2)] allora a qualsiasi premio debba riscuotere verrá detratto il 20% della sua parte di vincita. 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### RITIRARE UNA SCOMMESSA: 
-Chiunque voglia ritirare una #bet piazzata potrá farlo ottenendo un rimborso del 70% di quanto pagato. É possibile ritirare una scommessa fino a 2 mesi prima della fine del periodo di gioco. (es: se il periodo di gioco é di 3 mesi e inizia a gennaio allora il limite massimo per ritirare una scommessa é l'ultimo giorno utile di gennaio). Il rimborso viene fatto il prima possibile, idealmente immediatamente alla richiesta. In caso di ritiro di una scommessa, e successiva nuova bet, verrà considerata bet ri-piazzata anche se sono presenti altre bet da consumare. Le giocate massime restano uguali ma, se si decide di ripuntare una scommessa con giocate rimanenti ancora valide, la nuova giocata verrà considerata come ri-piazzata con relativa penalità in caso di vincita. (si suggerisce di terminare le puntate residue prima di ripiazzarne una)
+### RITIRARE UNA SCOMMESSA: (E)
+(E.1) Chiunque voglia ritirare una #bet piazzata potrá farlo ottenendo un rimborso del 70% di quanto pagato. (E.1a) É possibile ritirare una scommessa fino a 2 mesi prima della fine del periodo di gioco. (es: se il periodo di gioco é di 3 mesi e inizia a gennaio allora il limite massimo per ritirare una scommessa é l'ultimo giorno utile di gennaio). (E.1b) Il rimborso viene fatto il prima possibile, idealmente immediatamente alla richiesta. (E.1c) In caso di ritiro di una scommessa, e successiva nuova bet, verrà considerata bet ri-piazzata anche se sono presenti altre bet da consumare. (E.1d) Le giocate massime restano uguali ma, se si decide di ripuntare una scommessa con giocate rimanenti ancora valide, la nuova giocata verrà considerata come ri-piazzata con relativa penalità in caso di vincita. (si suggerisce di terminare le puntate residue prima di ripiazzarne una)
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### ESEMPIO DI GIOCO:
+### ESEMPIO DI GIOCO: (F)
 Periodo 4 mesi gennaio-aprile
 Si gioca dal 1 gennaio al 15 aprile
 Fino all'ultimo di febbraio si possono ritirare e piazzare nuove scommesse.
@@ -66,68 +66,68 @@ Caso B) nessuna vincita esatta, cinque candidati per vincita parziale. Si prende
 Caso C) nessuna vincita esatta né parziale. Se il montepremi é inferiore ai 1.000.000 sats allora si assegna integralmente in base al risultato del sondaggio, se superiore allora la quota extra dei 1M sats si tiene in aggiunta al prossimo giro di gioco. 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### Sezione CEX:
-- il cex o la società maggiore del gruppo (es: binance vale sia per binance.us, binance.it ecc) dichiara ufficialmente bancarotta, insolvenza, fallimento. L'acquisizione o assorbimento in altra azienda non conta come sopravvivenza del cex, viene considerato ugualmente fallito.
-- il cex non viene piu utilizzato, i volumi di scambio giornaliero si stabilizzano a:
+### Sezione CEX: (G)
+- (G.1) il cex o la società maggiore del gruppo (es: binance vale sia per binance.us, binance.it ecc) dichiara ufficialmente bancarotta, insolvenza, fallimento. L'acquisizione o assorbimento in altra azienda non conta come sopravvivenza del cex, viene considerato ugualmente fallito.
+- (G.2) il cex non viene piu utilizzato, i volumi di scambio giornaliero si stabilizzano a:
 1) 250.000 usd - VINCITA ESATTA
 2) 1.000.000 usd - VINCITA PARZIALE
 
-I volumi di scambio vengono calcolati sulla base delle informazioni riportate da https://coinmarketcap.com/rankings/exchanges/ CMC viene utilizzato per determinare i volumi al calcolo per assegnare i premi.
+(G.3) I volumi di scambio vengono calcolati sulla base delle informazioni riportate da https://coinmarketcap.com/rankings/exchanges/ CMC viene utilizzato per determinare i volumi al calcolo per assegnare i premi.
 
-Per la preparazione della tabella di gioco: vengono riportati i primi 50 CEX presenti al link https://coinmarketcap.com/rankings/exchanges/ (al momento di preparazione della tabella / i dati riportati nel link possono cambiare nel tempo, la tabella resta uguale per tutto il periodo di gioco) I dati vengono confronttati con quelli indicati nella lista https://www.coingecko.com/it/cambi . Vengono confermati solo i CEX che compaiono in entrambe le liste (considerando Coingecko fino alla massima posizione del 60imo posto / se un cex presente su cmc non è presente nei primi 60 posti della lista coingecko, viene eliminato dal turno di gioco ). La lista viene aggiornata ad ogni turno di gioco e non è modificabile se non aggiungendo CEX extra (vedi sezione) con votazione degli utenti. Se la tabella di gioco presenta degli spazi vuoti vuol dire che i cex riportati da cmc non erano presenti nei primi 60 di coingecko, i posti rimanenti restano vacanti fino al prossimo turno di gioco. Tutte le aggiunte di cex fatte dai giocatori andranno inserite nella sezione "extra" della tabella.
+(G.4) Per la preparazione della tabella di gioco: vengono riportati i primi 50 CEX presenti al link https://coinmarketcap.com/rankings/exchanges/ (al momento di preparazione della tabella / i dati riportati nel link possono cambiare nel tempo, la tabella resta uguale per tutto il periodo di gioco). (G.4a) I dati vengono confronttati con quelli indicati nella lista https://www.coingecko.com/it/cambi . (G.4b) Vengono confermati solo i CEX che compaiono in entrambe le liste (considerando Coingecko fino alla massima posizione del 60imo posto / se un cex presente su cmc non è presente nei primi 60 posti della lista coingecko, viene eliminato dal turno di gioco ). (G.4c) La lista viene aggiornata ad ogni turno di gioco e non è modificabile se non aggiungendo CEX extra (vedi sezione) con votazione degli utenti. (G.4d) Se la tabella di gioco presenta degli spazi vuoti vuol dire che i cex riportati da cmc non erano presenti nei primi 60 di coingecko, i posti rimanenti restano vacanti fino al prossimo turno di gioco. Tutte le aggiunte di cex fatte dai giocatori andranno inserite nella sezione "extra" della tabella.
 e viene tollerato uno scarto + o - del 20% quindi:
 * dai 200.000 usd ai 300.000 usd
 * dai 800.000 usd ai 1.200.000 usd
-Ogni giorno (nel periodo di calcolo) vengono presi i valori di riferimento (scartando le migliaia) e a fine del periodo viene fatta una media matematica. 
+(G.5) Ogni giorno (nel periodo di calcolo) vengono presi i valori di riferimento (scartando le migliaia) e a fine del periodo viene fatta una media matematica. 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules) - [LISTA CEX GIOCATI](https://github.com/Cmod777/CMrules#lista-cex-giocati)
 ***
-### Sezione COIN:
-- La coin viene considerata fallita quando perde almeno il X% del suo valore dal momento di inizio del periodo di gioco. All'inizio del gioco viene riportata la coin listata e il suo prezzo di quotazione preso da https://coinmarketcap.com/ , dal periodo indicato fino al periodo di fine verrá verificato il prezzo di quotazione finale.
+### Sezione COIN: (H)
+- (H.1) La coin viene considerata fallita quando perde almeno il X% del suo valore dal momento di inizio del periodo di gioco. All'inizio del gioco viene riportata la coin listata e il suo prezzo di quotazione preso da https://coinmarketcap.com/ , dal periodo indicato fino al periodo di fine verrá verificato il prezzo di quotazione finale.
 1) perdita di almeno il 90% - VINCITA ESATTA
 2) perdita compresa tra il meno 75% e il 90% - VINCITA PARZIALE 
-Nel periodo di controllo si procede cosi: l'ultimo giorno utile (circa 3 giorni prima della scadenza del gioco) si controllano i prezzi finali delle coin e il controvalore perso in % rispetto a quanto riportato a inizio gioco.
+(H.2) Nel periodo di controllo si procede cosi: l'ultimo giorno utile (circa 3 giorni prima della scadenza del gioco) si controllano i prezzi finali delle coin e il controvalore perso in % rispetto a quanto riportato a inizio gioco.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules) - [LISTA COIN GIOCATE](https://github.com/Cmod777/CMrules#lista-coin-giocate)
 ***
-### Sezione CRYPTO-GURU:
+### Sezione CRYPTO-GURU: (K)
 Per la sezione GURU il gioco si svolge in questo modo: 
-* il giocatore deve indovinare quale crypto guru shillerà per primo il prossimo progetto scam entro la fine del periodo di gioco (puó essere una coin, un cex, un dex, uno smart-contract ecc...) Per essere considerato scam si devono verificare le seguenti condizioni: COIN: almeno una perdita del 75% dall'inizio del periodo di gioco, CEX: fallimento o insolvenza dell'exchange, DEX o SMART-CONTRACT: hack o perdita di fondi dovute all'utilizzo del codice, altro non espressamente previsto viene valutato caso per caso.
-* si gioca sulla sponsorizzazione di un progetto scam, non sulla moneta o sull'exchange.
-* il giocatore dovrá fornire prove a dimostrazione della vincita da reclamare. Le prove possono essere screenshot o video reperiti dalle pagine social pubbliche del guru stesso. (Non sono concessi in nessun modo screen provenienti da gruppi privati e/o conversazioni personali intrattenute con la persona su cui si scommette) Le prove devono contenere la data di pubblicazione visibile, sono valide anche prove da post poi cancellati dal guru.
-* a paritá di vincitori potrá reclamare il montepremi relativo (sezione GURU) solo il primo giocatore che porterá prove a suo vantaggio. Fará fede la chat pubblica del gruppo. I messaggi cancellati non potranno essere usati a proprio vantaggio: il giocatore che invia un messaggio di prova (screen o video) e poi lo cancella non potrá usarlo a proprio vantaggio, il messaggio cancellato non sará conteggiato come prova valida.
-* si puó giocare solo sui crypto influencer italiani, o che fanno contenuti in lingua italiana.
-* per giocare nella sezione GURU si usa il comando di base per piazzare una scommessa, seguito dal nome del GURU su cui si gioca.
-La lista dei GURU su cui é possibile giocare é disponibile nel gruppo dedicato, hanno tutti pari quotazione.
-I guru da listare come extra hanno quotazione 50k e possono essere listati a condizione che siano richiesti da almeno 3 giocatori. 
-Il montepremi della sezione GURU é considerato a parte rispetto a quello della sezione CEX&COIN.
-Ogni giocatore ha a disposizione lo stesso numero di puntate della sezione CEX&COIN (7) con massimo due ri-puntate [LIMITI](https://github.com/Cmod777/CMrules#limiti). Si applicano le stesse penalitá in caso di ritiro e successiva scommessa [RITIRARE UNA SCOMMESSA](https://github.com/Cmod777/CMrules#ritirare-una-scommessa), si applicano le stesse condizioni di penalitá per vittoria anticipata [VINCITE](https://github.com/Cmod777/CMrules#vincite). Si applicano le stesse penalitá in caso di vittoria derivante da una scommessa ri-piazzata [penalità](https://github.com/Cmod777/CMrules#penalit%C3%A0).
-Non si applicano penalitá di gioco alla sezione GURU. Vince solo chi, tra i giocatori, comunica per primo e fornisce prove valide per riscattare la sua vincita. In caso di vittoria, il vincitore incassa il premio e le puntate per la sezione GURU sono sospese fino a nuovo turno di gioco: un solo vincitore per turno di gioco.
-Il montepremi non incassato (in caso di vincita anticipata o in caso di nessun vincitore) viene sommato al prossimo turno di gioco della sezione GURU. [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
+* (K.1) il giocatore deve indovinare quale crypto guru shillerà per primo il prossimo progetto scam entro la fine del periodo di gioco (puó essere una coin, un cex, un dex, uno smart-contract ecc...) Per essere considerato scam si devono verificare le seguenti condizioni: COIN: almeno una perdita del 75% dall'inizio del periodo di gioco, CEX: fallimento o insolvenza dell'exchange, DEX o SMART-CONTRACT: hack o perdita di fondi dovute all'utilizzo del codice, altro non espressamente previsto viene valutato caso per caso.
+* (K.2) si gioca sulla sponsorizzazione di un progetto scam, non sulla moneta o sull'exchange.
+* (K.3) il giocatore dovrá fornire prove a dimostrazione della vincita da reclamare. Le prove possono essere screenshot o video reperiti dalle pagine social pubbliche del guru stesso. (Non sono concessi in nessun modo screen provenienti da gruppi privati e/o conversazioni personali intrattenute con la persona su cui si scommette) Le prove devono contenere la data di pubblicazione visibile, sono valide anche prove da post poi cancellati dal guru.
+* (K.4) a paritá di vincitori potrá reclamare il montepremi relativo (sezione GURU) solo il primo giocatore che porterá prove a suo vantaggio. (K.4a) Fará fede la chat pubblica del gruppo. I messaggi cancellati non potranno essere usati a proprio vantaggio: il giocatore che invia un messaggio di prova (screen o video) e poi lo cancella non potrá usarlo a proprio vantaggio, il messaggio cancellato non sará conteggiato come prova valida.
+* (K.5) si puó giocare solo sui crypto influencer italiani, o che fanno contenuti in lingua italiana.
+* (K.6) per giocare nella sezione GURU si usa il comando di base per piazzare una scommessa, seguito dal nome del GURU su cui si gioca.
+(K.7) La lista dei GURU su cui é possibile giocare é disponibile nel gruppo dedicato, hanno tutti pari quotazione.
+(K.8) I guru da listare come extra hanno quotazione 50k e possono essere listati a condizione che siano richiesti da almeno 3 giocatori. 
+(K.9) Il montepremi della sezione GURU é considerato a parte rispetto a quello della sezione CEX&COIN.
+(K.10) Ogni giocatore ha a disposizione lo stesso numero di puntate della sezione CEX&COIN (7) con massimo due ri-puntate [LIMITI](https://github.com/Cmod777/CMrules#limiti). (K.10a) Si applicano le stesse penalitá in caso di ritiro e successiva scommessa [RITIRARE UNA SCOMMESSA](https://github.com/Cmod777/CMrules#ritirare-una-scommessa), si applicano le stesse condizioni di penalitá per vittoria anticipata [VINCITE](https://github.com/Cmod777/CMrules#vincite). (K.10b) Si applicano le stesse penalitá in caso di vittoria derivante da una scommessa ri-piazzata [penalità](https://github.com/Cmod777/CMrules#penalit%C3%A0).
+(K.11) Non si applicano penalitá di gioco alla sezione GURU. Vince solo chi, tra i giocatori, comunica per primo e fornisce prove valide per riscattare la sua vincita. (K.11a) In caso di vittoria, il vincitore incassa il premio e le puntate per la sezione GURU sono sospese fino a nuovo turno di gioco: un solo vincitore per turno di gioco.
+(K.12) Il montepremi non incassato (in caso di vincita anticipata o in caso di nessun vincitore) viene sommato al prossimo turno di gioco della sezione GURU. [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### PIAZZARE BET:
-La modalitá di candidatura a una scommessa va fatta nel modo indicato, il pagamento della invoice va fatto come richiesto. La scommessa risulta valida quando viene pagata e non quando viene piazzata. Con la stessa logica si ritiene valido per la vincita esatta solo il primo che ha saldato se piu di uno possono essere parimerito per la vincita esatta. 
+### PIAZZARE BET: (L)
+(L.1) La modalitá di candidatura a una scommessa va fatta nel modo indicato, il pagamento della invoice va fatto come richiesto. La scommessa risulta valida quando viene pagata e non quando viene piazzata. (L.1a) Con la stessa logica si ritiene valido per la vincita esatta solo il primo che ha saldato se piu di uno possono essere parimerito per la vincita esatta. 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### LIMITI: 
-Sono concesse massimo sette #bet a utente, comprese quelle ritirate e poi ripiazzate. Sono concesse al massimo due rigiocate a utente. (Max 7 di cui max 2 rigiocate). Attenzione: se un giocatore ha ancora bet residue ma decide di ritirarne una già fatta, la successiva sarà considerata come "rigiocata" con relativa penalità di vincita. Suggeriamo di terminare le bet a disposizione prima di rigiocarne una già fatta.
+### LIMITI: (M)
+(M.1) Sono concesse massimo sette #bet a utente, comprese quelle ritirate e poi ripiazzate. Sono concesse al massimo due rigiocate a utente. (Max 7 di cui max 2 rigiocate). (M.1a) Attenzione: se un giocatore ha ancora bet residue ma decide di ritirarne una già fatta, la successiva sarà considerata come "rigiocata" con relativa penalità di vincita. Suggeriamo di terminare le bet a disposizione prima di rigiocarne una già fatta.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### EXTRA:
-Possono essere listate CEX&COIN non comprese nell'elenco iniziale a patto che, con sondaggio anonimo, si raggiunga almeno il 40% di voti tra i partecipanti. Devono votare almeno il 40% per considerare il sondaggio valido, in caso di validitá si aggiunge se vince a maggioranza dei votanti al SI.
+### EXTRA: (N)
+(N.1) Possono essere listate CEX&COIN non comprese nell'elenco iniziale a patto che, con sondaggio anonimo, si raggiunga almeno il 40% di voti tra i partecipanti. (N.1a) Devono votare almeno il 40% per considerare il sondaggio valido, in caso di validitá si aggiunge se vince a maggioranza dei votanti al SI.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
 
-### RIEPILOGO DELLE VINCITE:
+### RIEPILOGO DELLE VINCITE: (O)
 * M= montepremi
 * V= vincitore/i
 * P= premio assegnato
 * pen = penalitá
 * re-bet = scommessa ripiazzata 
 
-Puoi vincere il montepremi intero se:
+(O.1) Puoi vincere il montepremi intero se:
 -sei il primo, tra i giocatori che scommettono sulla stessa cosa, ad effettuare una VINCITA ESATTA
 P= 100%M (solo a scadenza)
 
-Puoi vincere il montepremi parziale se:
+(O.2) Puoi vincere il montepremi parziale se:
 -sei il primo, tra i giocatori che scommettono sulla stessa cosa, ad effettuare una VINCITA ESATTA ma la vincita é anticipata rispetto la fine del gioco
 * P= 50%M -pen (1 mese) re-bet
 * P= 75%M -pen (2 mese) limite re-bet
@@ -142,7 +142,7 @@ Puoi vincere il montepremi parziale se:
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 
  ***
-### LISTA CEX GIOCATI:
+### LISTA CEX GIOCATI: (P)
 | CEX | BET (bet uguali fino a indicazione differente)| turno 1 | 
 |:--------------|:-------------:|:--------------:|
 BINANCE*|15.000 sats|
@@ -202,12 +202,12 @@ YOUNG PLATFORM|-|
 
 1* comprende anche Binance.us, Binance.tr (cex inteso come principale, non sono considerati i sottogruppi)
 
-(se il cex contiene l'indicazione "null" in tabella è escluso dalle prossime votazioni nel turno - le bet precedenti il "null" sono valide, non ne vengono accettate altre fino alla fine del turno di gioco)
+(P.1) (se il cex contiene l'indicazione "null" in tabella è escluso dalle prossime votazioni nel turno - le bet precedenti il "null" sono valide, non ne vengono accettate altre fino alla fine del turno di gioco)
 
-La tabella comprende 50 posizioni massime (+quelle extra scelte dai giocatori). Da una posizione all'altra viene aggiunto un extra di 5k sats. Alla prima posizione viene assegnato un punteggio di 10k. Nel caso in cui non ci fosse possibilità di inserire nemmeno un CEX nell'ultimo scaglione allora la prima posizione inizierà con 15k, nel caso in cui non ci fosse possibilità di inserire nemmeno un CEX nel penultimo scaglione allora la prima posizione inizierà con 20k ecc... Nel caso in cui si potesse riempire solo il primo scaglione allora esso partirà con una quotazione di 30k.
+(P.2) La tabella comprende 50 posizioni massime (+quelle extra scelte dai giocatori). Da una posizione all'altra viene aggiunto un extra di 5k sats. (P.2a) Alla prima posizione viene assegnato un punteggio di 10k. Nel caso in cui non ci fosse possibilità di inserire nemmeno un CEX nell'ultimo scaglione allora la prima posizione inizierà con 15k, nel caso in cui non ci fosse possibilità di inserire nemmeno un CEX nel penultimo scaglione allora la prima posizione inizierà con 20k ecc... Nel caso in cui si potesse riempire solo il primo scaglione allora esso partirà con una quotazione di 30k.
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
  ***
-### LISTA COIN GIOCATE:
+### LISTA COIN GIOCATE: (Q)
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 10.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
@@ -298,14 +298,16 @@ ZEC / zcash|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 EXTRA / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 EXTRA / coin|0.00€|Parziale: 0.00€	- Esatta: 0.00€|
 
-La tabella comprende una lista di 60 posizioni, tutte le aggiunte EXTRA verranno inserite dopo votazione dei giocatori con quotazione 50k sats. Da uno scaglione al successivo c'è un incremento di 5k sats, la tabella parte con la prima posizione quotata 10k.
+(Q.1) La tabella comprende una lista di 60 posizioni, tutte le aggiunte EXTRA verranno inserite dopo votazione dei giocatori con quotazione 50k sats. Da uno scaglione al successivo c'è un incremento di 5k sats, la tabella parte con la prima posizione quotata 10k.
 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
 ***
-### NOTE
-* Si prega di rispettare il metodo indicato per il pagamento, esso tiene conto delle info aggiuntive contenute nella invoice che serviranno a indicare il corretto vincitore
-* Non sono accettati come validi saldi di invoice effettuati in altra maniera oltre a quella indicata
-* Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile e/o Muun, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali è a carico di tutti)
-* Ulteriori modifiche saranno comunicate in questa pagina e/o sui gruppi chat
-* In tutti i casi di vincita, il giocatore può decidere di devolvere in beneficenza la propria quota. Verrà effettuato un pagamento a suo nome verso il servizio scelto. Puntate doppie o multiple (il giocatore punta più volte sulla stessa bet) vengono considerate come singole ai fini della vincita, consumano però le bet a disposizione di ognuno.
+### NOTE (R)
+* (R.1) Si prega di rispettare il metodo indicato per il pagamento, esso tiene conto delle info aggiuntive contenute nella invoice che serviranno a indicare il corretto vincitore
+* (R.2) Non sono accettati come validi saldi di invoice effettuati in altra maniera oltre a quella indicata
+* (R.3) Per la generazione delle invoice viene utilizzato il wallet Phoenix Mobile e/o Muun, le fee di gestione dei canali sono dedotte dal totale del montepremi (la gestione dei canali è a carico di tutti)
+* (R.4) Ulteriori modifiche saranno comunicate in questa pagina e/o sui gruppi chat
+* (R.5) In tutti i casi di vincita, il giocatore può decidere di devolvere in beneficenza la propria quota. Verrà effettuato un pagamento a suo nome verso il servizio scelto. Puntate doppie o multiple (il giocatore punta più volte sulla stessa bet) vengono considerate come singole ai fini della vincita, consumano però le bet a disposizione di ognuno.
+* (R.6) Attenzione: i pagamenti vanno effettuati nella modalità indicata dagli admin. (R.6a) Tutti i pagamenti effettuati in modalità diversa da quella indicata vanno considerati come persi. (R.6b) Ricordiamo che le transazioni bitcoin sonno irreversibili, ognuno è responsabile per la propria transazione errata. (R.6c) Il metodo di pagamento che viene indicato dagli admin serve a rintracciare in modo univoco e senza errori una bet correttamente piazzata e pagata (si fa riferimento all'orario del pagamento e alle note indicate nella invoice che servono a indicare chi ha effettuato il pagamento)
+* (R.7) Attenzione: al termine del periodo di gioco e prima della distribuzione dei premi verrà stilata una lista provvisioria dei possibili vincitori. (R.7a) Tutti i membri del gruppo hanno tempo 24 ore per controllare che non manchino vincitori o che non ci siano errori, trascorso quel periodo la lista sarà considerata definitiva e si procederà a pagare i vincitori li indicati. (R.7b) Non saranno ritenute valide lamentele oltre alla data prevista, 24 ore sono sufficienti per controllare che non ci siano errori o dimenticanze. 
 [TORNA A HOME](https://github.com/Cmod777/CMrules#cmrules)
