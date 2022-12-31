@@ -211,86 +211,86 @@ YOUNG PLATFORM|-|
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 10.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-BTC / bitcoin |15.442,69€|Parziale: 0.00€	- Esatta: 0.00€|
-ETH / ethereum|1.117,01€|Parziale: 0.00€	- Esatta: 0.00€|
-USDT / tether|0,99€|Parziale: 0.00€	- Esatta: 0.00€|
-BNB / bnb|229,31€|Parziale: 0.00€	- Esatta: 0.00€|
-USDC / usdc coin|1,00€|Parziale: 0.00€	- Esatta: 0.00€|
-BUSD / binance usd|0,93€|Parziale: 0.00€	- Esatta: 0.00€|
-XRP / xrp|0,32€|Parziale: 0.00€	- Esatta: 0.00€|
-DOGE / dogecoin|0,06€|Parziale: 0.00€	- Esatta: 0.00€|
-ADA / cardano|0,23€|Parziale: 0.00€	- Esatta: 0.00€|
-MATIC / polygon|0,71€|Parziale: 0.00€	- Esatta: 0.00€|
+BTC / bitcoin |15.442,69€|Parziale: 3.860,67€	- Esatta: 1.544,27€|
+ETH / ethereum|1.117,01€|Parziale: 279,25€	- Esatta: 111,70€|
+USDT / tether|0,99€|Parziale: 0,25€	- Esatta: 0,10€|
+BNB / bnb|229,31€|Parziale: 57,33€	- Esatta: 22,93€|
+USDC / usdc coin|1,00€|Parziale: 0,25€	- Esatta: 0.10€|
+BUSD / binance usd|0,93€|Parziale: 0,23€	- Esatta: 0,09€|
+XRP / xrp|0,32€|Parziale: 0,08€	- Esatta: 0.03€|
+DOGE / dogecoin|0,06€|Parziale: 0,02€	- Esatta: 0,006€|
+ADA / cardano|0,23€|Parziale: 0,06€	- Esatta: 0,02€|
+MATIC / polygon|0,71€|Parziale: 0,18€	- Esatta: 0,07€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 15.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-DOT / polkadot|4,05€|Parziale: 0.00€	- Esatta: 0.00€|
-DAI / dai|0,93€|Parziale: 0.00€	- Esatta: 0.00€|
-SOL / solana|9,23€|Parziale: 0.00€	- Esatta: 0.00€|
-SHIB / shiba inu|0,000007€|Parziale: 0.00€	- Esatta: 0.00€|
-TRX / tron|0,05€|Parziale: 0.00€	- Esatta: 0.00€|
-UNI / uniswap|4,78€|Parziale: 0.00€	- Esatta: 0.00€|
-LTC / litecoin|63,63€|Parziale: 0.00€	- Esatta: 0.00€|
-AVAX / avalanche|10,22€|Parziale: 0.00€	- Esatta: 0.00€|
-WBTC / wrapped bitcoin|15.407,84€|Parziale: 0.00€	- Esatta: 0.00€|
-LEO / unus sed leo|3,31€|Parziale: 0.00€	- Esatta: 0.00€|
+DOT / polkadot|4,05€|Parziale: 1,01€	- Esatta: 0,40€|
+DAI / dai|0,93€|Parziale: 0,23€	- Esatta: 0,09€|
+SOL / solana|9,23€|Parziale: 2,31€	- Esatta: 0,92€|
+SHIB / shiba inu|0,000007€|Parziale: 0,0000017€	- Esatta: 0,0000007€|
+TRX / tron|0,05€|Parziale: 0,01€	- Esatta: 0,005€|
+UNI / uniswap|4,78€|Parziale: 1,19€	- Esatta: 0,48€|
+LTC / litecoin|63,63€|Parziale: 15,91€	- Esatta: 6,36€|
+AVAX / avalanche|10,22€|Parziale: 2,55€	- Esatta: 1,02€|
+WBTC / wrapped bitcoin|15.407,84€|Parziale: 3.851,96€	- Esatta: 1.540,78€|
+LEO / unus sed leo|3,31€|Parziale: 0,83€	- Esatta: 0,33€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 20.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-LINK / chainlin|5,17€|Parziale: 0.00€	- Esatta: 0.00€|
-ATOM / cosmos|8,73€|Parziale: 0.00€	- Esatta: 0.00€|
-ETC / eth classic|14,69€|Parziale: 0.00€	- Esatta: 0.00€|
-XRM / monero|135,94€|Parziale: 0.00€	- Esatta: 0.00€|
-XLM / stellar|0,06€|Parziale: 0.00€	- Esatta: 0.00€|
-BCH / bitcoin cash|91,27€|Parziale: 0.00€	- Esatta: 0.00€|
-TON / toncoin|1,98€|Parziale: 0.00€	- Esatta: 0.00€|
-ALGO / algorand|0,16€|Parziale: 0.00€	- Esatta: 0.00€|
-CRO / cronos|0,05€|Parziale: 0.00€	- Esatta: 0.00€|
-NEAR / near protocol|1,19€|Parziale: 0.00€	- Esatta: 0.00€|
+LINK / chainlin|5,17€|Parziale: 1,29€	- Esatta: 0,52€|
+ATOM / cosmos|8,73€|Parziale: 2,18€	- Esatta: 0,87€|
+ETC / eth classic|14,69€|Parziale: 3,67€	- Esatta: 1,47€|
+XRM / monero|135,94€|Parziale: 33,98€	- Esatta: 13,59€|
+XLM / stellar|0,06€|Parziale: 0,02€	- Esatta: 0,006€|
+BCH / bitcoin cash|91,27€|Parziale: 22,82€	- Esatta: 9,13€|
+TON / toncoin|1,98€|Parziale: 0,50€	- Esatta: 0,20€|
+ALGO / algorand|0,16€|Parziale: 0,04€	- Esatta: 0,016€|
+CRO / cronos|0,05€|Parziale: 0,012€	- Esatta: 0,005€|
+NEAR / near protocol|1,19€|Parziale: 0,30€	- Esatta: 0,12€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 25.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-FIL / filecoin|2,78€|Parziale: 0.00€	- Esatta: 0.00€|
-VET / vechain|0,01€|Parziale: 0.00€	- Esatta: 0.00€|
-QNT / quant|99,98€|Parziale: 0.00€	- Esatta: 0.00€|
-FLOW / flow|0,61€|Parziale: 0.00€	- Esatta: 0.00€|
-CHZ / chiliz|0,09€|Parziale: 0.00€	- Esatta: 0.00€|
-LUNC / terra classic|0,000013€|Parziale: 0.00€	- Esatta: 0.00€|
-ICP / internet computer|3,82€|Parziale: 0.00€	- Esatta: 0.00€|
-OKB / okb|24,39€|Parziale: 0.00€	- Esatta: 0.00€|
-EGLD / elrond|30,89€|Parziale: 0.00€	- Esatta: 0.00€|
-HBAR / hedera|0,03€|Parziale: 0.00€	- Esatta: 0.00€|
+FIL / filecoin|2,78€|Parziale: 0,69€	- Esatta: 0,29€|
+VET / vechain|0,01€|Parziale: 0,0025€	- Esatta: 0,001€|
+QNT / quant|99,98€|Parziale: 24,99€	- Esatta: 9,99€|
+FLOW / flow|0,61€|Parziale: 0,15€	- Esatta: 0,06€|
+CHZ / chiliz|0,09€|Parziale: 0,022€	- Esatta: 0,009€|
+LUNC / terra classic|0,000013€|Parziale: 0,0000032€	- Esatta: 0,0000013€|
+ICP / internet computer|3,82€|Parziale: 0,95€	- Esatta: 0,38€|
+OKB / okb|24,39€|Parziale: 6,10€	- Esatta: 2,44€|
+EGLD / elrond|30,89€|Parziale: 7,72€	- Esatta: 3,09€|
+HBAR / hedera|0,03€|Parziale: 0,02€	- Esatta: 0,003€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 30.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-XCN / chain|0,01€|Parziale: 0.00€	- Esatta: 0.00€|
-EOS / eos|0,80€|Parziale: 0.00€	- Esatta: 0.00€|
-TWT / trust wallet token|1,32€|Parziale: 0.00€	- Esatta: 0.00€|
-USDP / pax dollar|0,92€|Parziale: 0.00€	- Esatta: 0.00€|
-XTZ / tezos|0,66€|Parziale: 0.00€	- Esatta: 0.00€|
-APE / apecoin|3,38€|Parziale: 0.00€	- Esatta: 0.00€|
-SAND / sandbox|0,36€|Parziale: 0.00€	- Esatta: 0.00€|
-THETA / theta network|0,68€|Parziale: 0.00€	- Esatta: 0.00€|
-TUSD / trueusd|0,93€|Parziale: 0.00€	- Esatta: 0.00€|
-AAVE / aave|48,99€|Parziale: 0.00€	- Esatta: 0.00€|
+XCN / chain|0,01€|Parziale: 0,0025€	- Esatta: 0,001€|
+EOS / eos|0,80€|Parziale: 0,2€	- Esatta: 0,08€|
+TWT / trust wallet token|1,32€|Parziale: 0,33€	- Esatta: 0,13€|
+USDP / pax dollar|0,92€|Parziale: 0,69€	- Esatta: 0,092€|
+XTZ / tezos|0,66€|Parziale: 0,16€	- Esatta: 0,06€|
+APE / apecoin|3,38€|Parziale: 0,84€	- Esatta: 0,33€|
+SAND / sandbox|0,36€|Parziale: 0,09€	- Esatta: 0,036€|
+THETA / theta network|0,68€|Parziale: 0,17€	- Esatta: 0,068€|
+TUSD / trueusd|0,93€|Parziale: 0,23€	- Esatta: 0,09€|
+AAVE / aave|48,99€|Parziale: 12,25€	- Esatta: 4,89€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
 | bet 35.000 sats | turno 1 | VINCITA PARZIALE tra -75% e -89% / VINCITA ESATTA oltre il -90% |
-MANA / decentraland|0,27€|Parziale: 0.00€	- Esatta: 0.00€|
-GUSD / gemini dollar|0,92€|Parziale: 0.00€	- Esatta: 0.00€|
-KCS / kucoin token|6,03€|Parziale: 0.00€	- Esatta: 0.00€|
-BSV / bitcoin SV|38,56€|Parziale: 0.00€	- Esatta: 0.00€|
-HT / huobi token|4,74€|Parziale: 0.00€	- Esatta: 0.00€|
-USDD / usdd|0,91€|Parziale: 0.00€	- Esatta: 0.00€|
-AXS / axie infinity|5,65€|Parziale: 0.00€	- Esatta: 0.00€|
-MKR / maker|489,42€|Parziale: 0.00€	- Esatta: 0.00€|
-BIT / bitdao|0,31€|Parziale: 0.00€	- Esatta: 0.00€|
-ZEC / zcash|35,50€|Parziale: 0.00€	- Esatta: 0.00€|
+MANA / decentraland|0,27€|Parziale: 0,067€	- Esatta: 0,027€|
+GUSD / gemini dollar|0,92€|Parziale: 0,23€	- Esatta: 0,09€|
+KCS / kucoin token|6,03€|Parziale: 1,51€	- Esatta: 0,60€|
+BSV / bitcoin SV|38,56€|Parziale: 9,64€	- Esatta: 3,85€|
+HT / huobi token|4,74€|Parziale: 1,18€	- Esatta: 0,47€|
+USDD / usdd|0,91€|Parziale: 0,23€	- Esatta: 0,09€|
+AXS / axie infinity|5,65€|Parziale: 1,41€	- Esatta: 0,56€|
+MKR / maker|489,42€|Parziale: 122,35€	- Esatta: 48,94€|
+BIT / bitdao|0,31€|Parziale: 0,08€	- Esatta: 0,03€|
+ZEC / zcash|35,50€|Parziale: 8,87€	- Esatta: 3,55€|
 
 | COIN | PREZZO DI PARTENZA A INIZIO TURNO DI GIOCO | PREZZO TARGET MINIMO PER LA VITTORIA | 
 |:--------------|:-------------:|:--------------:|
